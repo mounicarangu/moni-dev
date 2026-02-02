@@ -16,11 +16,11 @@
 ## 🛠 Tech Stack
 
 ### 📱 Mobile
-[Kotlin]
-[Jetpack Compose]
-[Android]
-[React Native]
-[Swift]
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=android)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+![React Native](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift)
 
 ### ⚙️ Architecture
 MVVM • MVI • MVP • Clean Architecture • Modularization • Dependency Injection (Dagger/Hilt)
@@ -63,8 +63,8 @@ Location-based services with payments
 
 ## 📊 GitHub Stats
 
-[GitHub stats]
-[Top Langs]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mounicarangu&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounicarangu&layout=compact)
 
 ## 🌱 Currently Learning
 - 🤖 AI-powered Android apps (LLM & Generative AI integrations)
